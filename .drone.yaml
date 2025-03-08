@@ -18,6 +18,7 @@ steps:
   image: gcr.io/disco-order-206218/drone-metadata:3.0
   pull: always
   settings:
+    chart_name: "custom-kestra-ontario"
     elastic_credentials:
       from_secret: elastic-token
 

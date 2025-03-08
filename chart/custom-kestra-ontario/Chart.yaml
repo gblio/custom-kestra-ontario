@@ -2,6 +2,7 @@ apiVersion: v2
 name: custom-kestra-ontario
 description: Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 version: 0.4.0
+appVersion: "0.4.0"
 dependencies:
 - name: elasticsearch
   version: ^8.5.1

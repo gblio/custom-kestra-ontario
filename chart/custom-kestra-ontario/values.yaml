@@ -369,7 +369,7 @@ extraManifests: []
   #     key: pass123
 
 customsecrets:
-  amlsftp: key-for-aml-sftp
-  misftp: key-for-mi-sftp
-  ggrsftp: key-for-ggr-sftp
-  agcosftp: key-for-agco-sftp
+  amlsftp: VGhpcyBpcyBhIGR1bW15IHZhbHVlCg==
+  misftp: VGhpcyBpcyBhIGR1bW15IHZhbHVlCg==
+  ggrsftp: VGhpcyBpcyBhIGR1bW15IHZhbHVlCg==
+  agcosftp: VGhpcyBpcyBhIGR1bW15IHZhbHVlCg==
